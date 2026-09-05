@@ -9,55 +9,55 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 Section Manager (Operational Excellence) at **Thai Union Feedmill PCL**. I specialize in bridging industrial operations with modern tech — driving efficiency through Enterprise Web Apps, Process Automation (RPA), Digital Twins, and Smart Factory (IoT/AI) solutions.
 
-- 🏢 **Company:** Thai Union Feedmill PCL.
-- 📍 **Location:** Samut Sakhon, Thailand
-- 🔭 **Core Focus:** Smart Factory Solutions, OEE Optimization, Enterprise Web Applications
-- ⚙️ **Key Domains:** SAP Automation (Playwright/RPA), Industrial IoT & Digital Twins, Computer Vision (YOLO)
-- 🌱 **Exploring:** Edge AI, Cloud-Native Architecture & Modern Microservices
+- **Company:** Thai Union Feedmill PCL.
+- **Location:** Samut Sakhon, Thailand
+- **Core Focus:** Smart Factory Solutions, OEE Optimization, Enterprise Web Applications
+- **Key Domains:** SAP Automation (Playwright/RPA), Industrial IoT & Digital Twins, Computer Vision (YOLO)
+- **Exploring:** Edge AI, Cloud-Native Architecture & Modern Microservices
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🌐 Languages & Web
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-#### 🚀 Frameworks, Automation & Database
+#### Frontend & Web
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright_RPA-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+#### Backend, Runtimes & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-#### 🧠 Data, AI & Enterprise Solutions
+#### Automation & Enterprise Systems
 <p align="left">
-  <img src="https://img.shields.io/badge/YOLOv8_Vision-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Playwright_RPA-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_Ecosystem-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP_Ecosystem-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
-#### 📟 Industrial IoT & Hardware
+#### IoT, Hardware & AI
 <p align="left">
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32%20%2F%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Modbus%20%2F%20Industrial%20Sensors-FF6F00?style=for-the-badge&logo=circuitverse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modbus%20%2F%20Sensors-FF6F00?style=for-the-badge&logo=circuitverse&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8_Vision-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
 </p>
 
 ---
