@@ -7,22 +7,15 @@
   <a href="mailto:g.sarun@hotmail.com"><img src="https://img.shields.io/badge/Contact-g.sarun@hotmail.com-informational?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+### About me
 
-### About Me
-Section Manager (Operational Excellence) at **Thai Union Feedmill PCL**. I specialize in bridging industrial operations with modern tech — driving efficiency through Enterprise Web Apps, Process Automation (RPA), Digital Twins, and Smart Factory (IoT/AI) solutions.
+I am the Section Manager for Operational Excellence at Thai Union Feedmill in Samut Sakhon, Thailand. I work where industrial operations meet software, building smart factory systems, OEE tracking tools, and enterprise web applications.
 
-- **Company:** Thai Union Feedmill PCL.
-- **Location:** Samut Sakhon, Thailand
-- **Core Focus:** Smart Factory Solutions, OEE Optimization, Enterprise Web Applications
-- **Key Domains:** SAP Automation (Playwright/RPA), Industrial IoT & Digital Twins, Computer Vision (YOLO)
-- **Exploring:** Edge AI, Cloud-Native Architecture & Modern Microservices
+Much of my day-to-day work involves SAP automation with Playwright, industrial IoT, digital twins, and computer vision using YOLO. I am also exploring edge AI and cloud-native microservices.
 
----
+### Tech stack
 
-### 🛠️ Tech Stack
-
-#### Frontend & Web
+#### Frontend and web
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -31,7 +24,7 @@ Section Manager (Operational Excellence) at **Thai Union Feedmill PCL**. I speci
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-#### Backend, Runtimes & Databases
+#### Backend, runtimes, and databases
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -43,7 +36,7 @@ Section Manager (Operational Excellence) at **Thai Union Feedmill PCL**. I speci
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-#### Automation & Enterprise Systems
+#### Automation and enterprise systems
 <p align="left">
   <img src="https://img.shields.io/badge/Playwright_RPA-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP_Ecosystem-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
@@ -51,7 +44,7 @@ Section Manager (Operational Excellence) at **Thai Union Feedmill PCL**. I speci
   <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
 </p>
 
-#### IoT, Hardware & AI
+#### IoT, hardware, and AI
 <p align="left">
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32%20%2F%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -60,17 +53,13 @@ Section Manager (Operational Excellence) at **Thai Union Feedmill PCL**. I speci
   <img src="https://img.shields.io/badge/YOLOv8_Vision-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
 </p>
 
----
-
-### 📊 GitHub Stats
+### GitHub stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSarun&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api?username=GSarun&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" height="180px" />
 </p>
 
----
-
-### 📫 Connect with me
+### Connect
 <p align="left">
   <a href="https://www.facebook.com/G.Sarun85" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sarun-gaiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
